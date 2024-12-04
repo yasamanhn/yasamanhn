@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**yasamanhn/yasamanhn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Yasaman, a front-end developer specializing in Vue.js and JavaScript. 🌟  
+I'm passionate about building beautiful, interactive web applications.  
 
-Here are some ideas to get you started:
+#### 🚀 Skills
+-HTML5, CSS3, javaScript, jQuery
+-vue.js, pinia, Tailwind Css, Bootstrap, typeScript, axios
+-Scss, Gif/Github, Responsive Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### 🌱 Currently Learning
+- TypeScript, Nuxt.js
+
+#### 🌟 Featured Projects
+- [To Do List App](https://github.com/yasamanhn/Todo-app)
+- [Music App](https://github.com/yasamanhn/music)
+- [Weather App](https://github.com/yasamanhn/weather-app)  
+  
+
+Let's connect! ✨
+
